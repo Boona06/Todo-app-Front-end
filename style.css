@@ -1,0 +1,23 @@
+.Create-button{
+    font-size: medium;
+}
+.To-do-app{
+   margin: auto;
+}
+.Section{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(10, 3, 3);
+    width: auto;
+    max-width: 600px;
+    height:auto;
+    max-width: 800px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+@media screen and (min-width: 600px){
+    .To-do-app{
+        display: flex;
+    }
+    
+}
